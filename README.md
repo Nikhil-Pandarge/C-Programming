@@ -20,3 +20,15 @@ https://github.com/Nikhil-Pandarge/C-Programming/tree/main/File%20Input%20Output
 5.Flow Control:
 
 https://github.com/Nikhil-Pandarge/C-Programming/tree/main/Flow%20Control
+
+6.GeeksForGeeks Problems Solved:
+
+https://github.com/Nikhil-Pandarge/C-Programming/tree/main/GeekForGeeks/Input%20output
+
+7.HackerRank Problems Solved:
+
+https://github.com/Nikhil-Pandarge/C-Programming/tree/main/HackeRank
+
+8.Storage Class:
+
+https://github.com/Nikhil-Pandarge/C-Programming/tree/main/Storage%20Class
