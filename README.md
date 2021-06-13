@@ -32,3 +32,11 @@ https://github.com/Nikhil-Pandarge/C-Programming/tree/main/HackeRank
 8.Storage Class:
 
 https://github.com/Nikhil-Pandarge/C-Programming/tree/main/Storage%20Class
+
+9.Structure and Union:
+
+https://github.com/Nikhil-Pandarge/C-Programming/tree/main/Strcture%20and%20Unioums
+
+10.String
+
+https://github.com/Nikhil-Pandarge/C-Programming/tree/main/String
